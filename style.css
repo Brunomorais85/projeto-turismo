@@ -1,3 +1,16 @@
+body {
+  background-image: url(assets/imagem\ desfocada.jpg );
+}
+
+#page {
+  
+  width: 800px;
+  padding: 24px;
+  background-color: rgb(120, 240, 106);
+  border-radius: 24px;
+  margin:48px auto;
+}
+
 img {
- border-radius: 16px; 
+  border-radius: 16px; 
 }
