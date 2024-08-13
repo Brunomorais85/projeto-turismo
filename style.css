@@ -2,12 +2,13 @@
   line-height: 150%;
   color: black;
 }
+
 body {
   background-image: url(assets/imagem\ desfocada.jpg );
 }
 
 #page {
-  box-sizing: border-box;
+   box-sizing: border-box;
   width: 1080px;
   padding: 24px;
   background-color: rgb(120, 240, 106);
