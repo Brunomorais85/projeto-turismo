@@ -1,16 +1,41 @@
+:root {
+  line-height: 150%;
+  color: black;
+}
 body {
   background-image: url(assets/imagem\ desfocada.jpg );
 }
 
 #page {
-  
-  width: 800px;
+  box-sizing: border-box;
+  width: 1080px;
   padding: 24px;
   background-color: rgb(120, 240, 106);
   border-radius: 24px;
   margin:48px auto;
+  
 }
 
 img {
   border-radius: 16px; 
+}
+h1 {
+  line-height: 150%;
+  font-size: 40px;
+}
+h2 {
+  font-size: 32px;
+}
+h1, h2 {
+  color: maroon;
+}
+h3 {
+  font-size: 30px;
+  
+}
+h4, h5, h6 {
+  font-size: 24px;
+}
+p {
+  font-size: 22px;
 }
